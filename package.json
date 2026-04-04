@@ -26,7 +26,7 @@
     "dotenv": "^17.0.0",
     "openid-client": "^6.8.1",
     "xero-node": "^13.3.0",
-    "zod": "3.25"
+    "zod": "4.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.0",
